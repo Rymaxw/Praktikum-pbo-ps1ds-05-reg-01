@@ -1,4 +1,4 @@
-package guided;
+package guided.asosiasi;
 
 public class Mahasiswa {
     private String nim;
